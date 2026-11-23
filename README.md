@@ -68,8 +68,8 @@ pkg update -y && pkg install -y git
 Replace `<your-username>` with the GitHub account that hosts this project:
 
 ```bash
-git clone https://github.com/<your-username>/github-repo-manager.git
-cd github-repo-manager
+git clone https://github.com/Horizon423/GitHub-Repository-Manager.git
+cd GitHub-Repository-Manager
 ```
 
 ### 3. Run the installer
