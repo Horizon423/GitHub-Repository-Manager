@@ -71,6 +71,12 @@ Replace `<your-username>` with the GitHub account that hosts this project:
 git clone https://github.com/Horizon423/GitHub-Repository-Manager.git
 cd GitHub-Repository-Manager
 ```
+```
+cd
+```
+```
+ pip install requests
+```
 
 ### 3. Run the installer
 
